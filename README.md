@@ -9,7 +9,7 @@
 
 <body style="margin-left: auto; margin-top: 200px; background-color:rgb(120, 134, 147); position:absolute";>
     <td>
-        <p>📞 Mobile-<b><a href="tel:+918674819520" target="_blank">8674819520</a></b></p>
+        <p>📞 Mobile-<b><a href="tel:<+918674819520>" target="_blank">8674819520</a></b></p>
         <p>📱 Whatsapp-<b><a href="https://wa.me/<8674819520>" target="_blank">Whatsapp Me</a></b></p>
         <p>✉️ Email-<b><a href="mailto:mritunjayraj2108@gmail.com" target="_blank">mraj21082000@gmail.com</a></b>
         <p>🌐 Website-<b><a href="https://github.com/Mraj2108/Resume" target="_blank">Website</a></b>
