@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
 </head>
 
 <body style="margin-left: auto; margin-top: 200px; background-color:rgb(120, 134, 147); position:absolute";>
